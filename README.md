@@ -1,10 +1,10 @@
-#Petful
+# Petful
 
-[Client Repo](https://github.com/thinkful-ei-heron/Petful-Client_Nate_DanW)
-[Api Repo](https://github.com/thinkful-ei-heron/Petful-Server_Nate_DanW)
+[Client Repo](https://github.com/thinkful-ei-heron/Petful-Client_Nate_DanW)  
+[Api Repo](https://github.com/thinkful-ei-heron/Petful-Server_Nate_DanW)  
 [Live App](https://nate-dan-petful-client.now.sh/)
 
-##Summary
+## Summary
 
 The Petful app uses a back-end linked list to create a virtual adoption center
 where you can get in line for the adoption process, see the people waiting in
@@ -13,10 +13,12 @@ when you are at the front of the line. At the Petful adoption center you may onl
 adopt the pet that has currently been at the adoption center for the longest amount
 of time.
 
-##Created by
+## Created by
+
 Dan Wagar
 
-##Technologies
+## Technologies
+
 Node
 Express
 PostgreSQL
